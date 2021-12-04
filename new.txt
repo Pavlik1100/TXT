@@ -1,0 +1,4 @@
+FIO - SimonovPavelSergeevich
+age -28
+home_pets - 0
+salary - 1000
